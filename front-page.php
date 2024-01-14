@@ -20,13 +20,13 @@
                 <p class="text-center">Michael Edizioni Treviso</p>
             </div>
 
-            <div class="col-20 text-center">
+            <!-- <div class="col-20 text-center">
                 <img id="logo-book" src="<?php echo get_stylesheet_directory_uri();?>/media/logo-book.png" alt="book-a-book-milano">
-            </div>
+            </div> -->
 
-            <div class="col-20 v-center pt-1">
+            <!-- <div class="col-20 v-center pt-1">
                 <p class="text-center">Book a Book Milano</p>
-            </div>
+            </div> -->
         </div>
     </div>
 
@@ -56,7 +56,7 @@
                     migliori opportunità, molti verso la Svizzera, dove trovarono ad accoglierli disagi e leggi molto
                     dure soprattutto verso i bambini.
                 </p>
-                <h3 class="text-3 pt-1">Edito da Bookabook Milano</h3>
+                <!-- <h3 class="text-3 pt-1">Edito da Bookabook Milano</h3> -->
             </div>
         </div>
 
